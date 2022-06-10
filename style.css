@@ -25,3 +25,10 @@
 .achivement_text span {
     color: orange;
 }
+.new {
+    margin: 20px;
+}
+
+#contact_us iframe {
+    width: 100%;
+}
